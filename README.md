@@ -1,2 +1,2 @@
 # PublicPortfolio
-Portfolio of documents for public consumption
+Portfolio of documents for public access.
