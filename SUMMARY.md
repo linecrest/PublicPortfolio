@@ -1,3 +1,3 @@
 # Table of contents
 
-* [PublicPortfolio](README.md)
+* [Public Portfolio](README.md)
