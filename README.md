@@ -11,4 +11,4 @@ icon: scroll-old
 
 # Resume
 
-[Tim's Résumé](Bjokne_Tim_NCResume.docx)
+[Tim's Résumé](Bjokne_Tim_NCResume.pdf)
