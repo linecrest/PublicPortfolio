@@ -1,4 +1,4 @@
-# Github and Gitbook Resource Links
+# Github and Gitbook Helps
 
 [Markdown Cheatsheet](https://github.com/im-luka/markdown-cheatsheet)
 
