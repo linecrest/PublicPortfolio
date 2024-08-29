@@ -1,5 +1,4 @@
 # Table of contents
 
-* [About...](README.md)
-* [Github Help Links](https://linecrest.gitbook.io/github-resource-links)
+* [About Tim...](README.md)
 * [Github and Gitbook Resource Links](github-and-gitbook-resource-links.md)
